@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @martyK7
-- 👀 I’m interested in python, linux, bash, C
-- 🌱 I’m currently learning as above
+- 👋 Hi, I’m @martyK7 cloud consultant by day
+- 👀 I’m interested in python, linux, bash, Docker, CI/CD and Automation in general 🤖=❤️
 - 💞️ I’m looking to collaborate on whatever you need help with that I can provide 
-- 📫 How to reach me ...
+
 
 <!---
 martyK7/martyK7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
