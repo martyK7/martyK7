@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @martyK7 cloud consultant by day
 - 👀 I’m interested in python, linux, bash, Docker, CI/CD and Automation in general 🤖=❤️
-- 💞️ I’m looking to collaborate on whatever you need help with that I can provide 
+- 💞️ Currently dabbling in Next.js 
 
 
 <!---
